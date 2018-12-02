@@ -7,7 +7,6 @@
 <fullyQualifiedTypeName name="com.sun.xml.internal.ws.api.config.management.policy.ManagedClientAssertion"/>
 <fullyQualifiedTypeName name="sun.reflect.generics.tree.VoidDescriptor"/>
 <fullyQualifiedTypeName name="core.Main"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="core.svm_parameter"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
@@ -19,4 +18,11 @@
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="fitness"/>
+<fullyQualifiedTypeName name="java.lang.Iterable"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="PSO"/>
+<fullyQualifiedTypeName name="java.lang.Thread.State"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.ForegroundAction"/>
 </qualifiedTypeNameHistroy>

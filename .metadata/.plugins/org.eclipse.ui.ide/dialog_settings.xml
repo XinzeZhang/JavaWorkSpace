@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Volumes/Storage/OneDrive - hust.edu.cn/____Temp/PSO_Bench"/>
+		<item value="/Volumes/Storage/OneDrive - hust.edu.cn/____Temp/PSO-bench"/>
+		<item value="/Volumes/Storage/OneDrive - hust.edu.cn/____Temp/src"/>
+		<item value="/Volumes/Storage/OneDrive - hust.edu.cn/____Temp/pso"/>
+		<item value="/Users/xinze/Downloads/PSO"/>
+		<item value="/Volumes/Storage/OneDrive - hust.edu.cn/___GitHub/JavaWorkSpace/PSO-PS"/>
 		<item value="/home/xinze/Documents/Github/JavaWorkSpace/Demo_SVM"/>
 	</list>
 	<section name="CleanDialogSettings">
